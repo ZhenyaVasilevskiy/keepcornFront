@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/keepcornFront/static/css/main.91ac1812.css",
+    "main.js": "/keepcornFront/static/js/main.f766124e.js",
+    "static/js/787.e9931da9.chunk.js": "/keepcornFront/static/js/787.e9931da9.chunk.js",
+    "static/media/ph2.svg": "/keepcornFront/static/media/ph2.41987440c40c19b3597809430dd54152.svg",
+    "static/media/TopAssistant.svg": "/keepcornFront/static/media/TopAssistant.7538ad59bdbbf6f1a5d0720e29aac632.svg",
+    "static/media/FontsFree-Net-SFProText-Semibold.ttf": "/keepcornFront/static/media/FontsFree-Net-SFProText-Semibold.fee27977166efaac0a2a.ttf",
+    "static/media/SimpleAssistant.svg": "/keepcornFront/static/media/SimpleAssistant.754b066dc2e5d3db1de6e13b354890b7.svg",
+    "static/media/aboutPH.png": "/keepcornFront/static/media/aboutPH.390264600be047224a31.png",
+    "static/media/Thunder-MediumLC.woff2": "/keepcornFront/static/media/Thunder-MediumLC.133bf5d18a5d8255a2e7.woff2",
+    "static/media/verify-icon.svg": "/keepcornFront/static/media/verify-icon.dd01b4f2dcf243740deaa148d7208c4c.svg",
+    "index.html": "/keepcornFront/index.html",
+    "static/media/Disclosure.svg": "/keepcornFront/static/media/Disclosure.f179ef8a57edf67d2b9ed1c38ca141b4.svg",
+    "main.91ac1812.css.map": "/keepcornFront/static/css/main.91ac1812.css.map",
+    "main.f766124e.js.map": "/keepcornFront/static/js/main.f766124e.js.map",
+    "787.e9931da9.chunk.js.map": "/keepcornFront/static/js/787.e9931da9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ac1812.css",
+    "static/js/main.f766124e.js"
+  ]
+}
