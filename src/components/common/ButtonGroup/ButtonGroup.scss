@@ -1,0 +1,29 @@
+.customButton {
+    width: 24%;
+    height: 40px;
+    letter-spacing: 0.5px;
+    color:#8A8A92;
+    background-color: inherit;
+    font-size: 16px;
+    border: none;
+    background: inherit;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    }
+
+.active{
+    background-color: white;
+    color:black;
+    }
+
+.buttonGroup{
+    font-size: 13px;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 8px;
+    background: #EAEAEB;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}

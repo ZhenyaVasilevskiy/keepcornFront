@@ -1,0 +1,39 @@
+@import "../../variables.scss";
+
+.AllAssistantsWrapper{
+    background-color: #F3F3F5;
+}
+
+.AllAssistantsContent{
+    width: 93%;
+    margin: 0 auto;
+}
+
+.filters{
+    display: flex;
+    
+    margin-top: -25px;
+
+}
+
+.assistants{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.seeAll > button{
+   background-color:  #0593FF;
+border-radius: 11px;
+padding: 5px 12px;
+color: white;
+width: 150px;
+height: 36px;
+}
+
+.seeAll{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}

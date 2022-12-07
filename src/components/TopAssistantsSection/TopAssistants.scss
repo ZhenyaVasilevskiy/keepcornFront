@@ -1,0 +1,57 @@
+.TopAssistantsWrapper{
+    background-color: #F3F3F5;
+}
+
+.TopAssistantsContent{
+    width: 93%;
+    margin: 0 auto;
+}
+
+.TopAssistantsHeadline{
+    font-family: 'Thunder';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 32px;
+text-transform: uppercase;
+padding-top: 40px;
+color: #000000;
+margin-bottom: 20px;
+}
+
+
+
+.Cards{
+    display: grid;
+    min-width: 100%;
+    overflow-x: auto;
+    grid-template-columns: repeat(2, 1fr);
+    z-index: 100;
+    position: relative;
+}
+
+.Cards::-webkit-scrollbar {
+    display: none;
+  }
+
+  .seeAllButton{
+    padding-bottom: 30px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+  .seeAllButton > button{
+    border: 1px solid #D8D8D9;
+    border-radius: 11px;
+    padding: 8px 33px;
+    color: black;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 22px;
+  }
+
+  .seeAllButton > img{
+    padding-left: 5px;
+  }

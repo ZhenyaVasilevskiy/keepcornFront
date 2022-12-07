@@ -1,0 +1,61 @@
+.AboutWrapper{
+    display: flex;
+    min-width: 100%;
+    overflow-x: auto;
+    margin-bottom: 20px;
+}
+.AboutWrapper::-webkit-scrollbar {
+    display: none;
+  }
+.card{
+    margin-right: 20px;
+    min-width: 70vw;
+    position: relative;
+    height: fit-content;
+}
+
+.backgroundImage{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.cardNumber{
+    position: absolute;
+    top:20px;
+    left:20px;
+    color: rgba(255, 255, 255, 0.75);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 18px;
+
+    background: rgba(255, 255, 255, 0.07);
+    backdrop-filter: blur(2px);
+    padding: 3px 5px;
+    border-radius: 5px;
+
+    font-family: sans-serif;
+}
+
+
+.cardTitle, .cardDescription {
+    position: absolute;
+   
+}
+
+
+.cardTitle{
+    left: 15px;
+    bottom: 25%;
+    color: white;
+}
+
+.cardDescription{ 
+    left:15px;
+    bottom:10%;
+    color: white;
+}
+
+.card:first-child{
+    margin-left: 3.5%;
+}

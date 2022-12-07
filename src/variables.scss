@@ -1,0 +1,27 @@
+// Reference THUNDER Normal Font
+@font-face {
+    font-family: "Thunder";
+    src: url(fonts/Thunder-MediumLC.woff2) format("woff2");
+    font-weight: normal;
+}
+
+$lightGrey : #F3F3F5;
+
+@font-face {
+    font-family: 'SF Pro Text';
+    src: url(fonts/FontsFree-Net-SFProText-Semibold.ttf) format("ttf");
+    font-weight: normal;
+}
+
+
+.sectionHeadline{
+    font-family: 'Thunder';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 32px;
+    text-transform: uppercase;
+    padding-top: 40px;
+    color: #000000;
+    margin-bottom: 20px;
+}
